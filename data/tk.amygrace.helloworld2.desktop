@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello World
+GenericName=Hello World
+Comment=Proves that we can use Vala and Gtk
+Categories=Utility;Education;
+Exec=tk.amygrace.helloworld2
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;World;Example;
