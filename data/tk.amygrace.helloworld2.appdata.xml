@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>tl.amygrace.helloworld2</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello World!</name>
+  <summary>Haaaaaaaiiiiii</summary>
+  <description>
+    <p>Hello World! This app says hello to the world.</p>
+  </description>
+</component>
